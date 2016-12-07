@@ -1,0 +1,10 @@
+{
+  "name": "jqueryui-css",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirthree/jqueryui-css.git"
+  },
+  "author": "thirthree",
+  "license": ""
+}
